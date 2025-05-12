@@ -1,0 +1,200 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://voxtobox.com/</loc>
+    <priority>1</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://voxtobox.com/?lang=fr_fr"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://voxtobox.com/?lang=en_gb"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://voxtobox.com/?lang=es_es"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://voxtobox.com/?lang=pt_pt"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://voxtobox.com/?lang=ar_ar"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://voxtobox.com/?lang=ru_ru"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://voxtobox.com/?lang=hi_in"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://voxtobox.com/?lang=hi_in"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://voxtobox.com/?lang=ja_jp"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://voxtobox.com/?lang=de_de"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://voxtobox.com/"/>
+  </url>
+  <url>
+    <loc>https://voxtobox.com/contact</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://voxtobox.com/contact?lang=fr_fr"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://voxtobox.com/contact?lang=en_gb"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://voxtobox.com/contact?lang=es_es"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://voxtobox.com/contact?lang=pt_pt"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://voxtobox.com/contact?lang=ar_ar"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://voxtobox.com/contact?lang=ru_ru"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://voxtobox.com/contact?lang=hi_in"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://voxtobox.com/contact?lang=hi_in"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://voxtobox.com/contact?lang=ja_jp"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://voxtobox.com/contact?lang=de_de"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://voxtobox.com/contact"/>
+  </url>
+  <url>
+    <loc>https://voxtobox.com/voxboxer</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://voxtobox.com/voxboxer?lang=fr_fr"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://voxtobox.com/voxboxer?lang=en_gb"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://voxtobox.com/voxboxer?lang=es_es"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://voxtobox.com/voxboxer?lang=pt_pt"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://voxtobox.com/voxboxer?lang=ar_ar"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://voxtobox.com/voxboxer?lang=ru_ru"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://voxtobox.com/voxboxer?lang=hi_in"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://voxtobox.com/voxboxer?lang=hi_in"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://voxtobox.com/voxboxer?lang=ja_jp"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://voxtobox.com/voxboxer?lang=de_de"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://voxtobox.com/voxboxer"/>
+  </url>
+  <url>
+    <loc>https://voxtobox.com/tarifs</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://voxtobox.com/tarifs?lang=fr_fr"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://voxtobox.com/tarifs?lang=en_gb"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://voxtobox.com/tarifs?lang=es_es"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://voxtobox.com/tarifs?lang=pt_pt"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://voxtobox.com/tarifs?lang=ar_ar"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://voxtobox.com/tarifs?lang=ru_ru"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://voxtobox.com/tarifs?lang=hi_in"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://voxtobox.com/tarifs?lang=hi_in"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://voxtobox.com/tarifs?lang=ja_jp"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://voxtobox.com/tarifs?lang=de_de"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://voxtobox.com/tarifs"/>
+  </url>
+  <url>
+    <loc>https://voxtobox.com/privacy</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://voxtobox.com/privacy?lang=fr_fr"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://voxtobox.com/privacy?lang=en_gb"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://voxtobox.com/privacy?lang=es_es"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://voxtobox.com/privacy?lang=pt_pt"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://voxtobox.com/privacy?lang=ar_ar"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://voxtobox.com/privacy?lang=ru_ru"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://voxtobox.com/privacy?lang=hi_in"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://voxtobox.com/privacy?lang=hi_in"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://voxtobox.com/privacy?lang=ja_jp"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://voxtobox.com/privacy?lang=de_de"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://voxtobox.com/privacy"/>
+  </url>
+  <url>
+    <loc>https://voxtobox.com/submit</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://voxtobox.com/submit?lang=fr_fr"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://voxtobox.com/submit?lang=en_gb"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://voxtobox.com/submit?lang=es_es"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://voxtobox.com/submit?lang=pt_pt"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://voxtobox.com/submit?lang=ar_ar"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://voxtobox.com/submit?lang=ru_ru"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://voxtobox.com/submit?lang=hi_in"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://voxtobox.com/submit?lang=hi_in"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://voxtobox.com/submit?lang=ja_jp"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://voxtobox.com/submit?lang=de_de"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://voxtobox.com/submit"/>
+  </url>
+  <url>
+    <loc>https://voxtobox.com/alternative-questionnaire</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://voxtobox.com/alternative-questionnaire?lang=fr_fr"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://voxtobox.com/alternative-questionnaire?lang=en_gb"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://voxtobox.com/alternative-questionnaire?lang=es_es"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://voxtobox.com/alternative-questionnaire?lang=pt_pt"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://voxtobox.com/alternative-questionnaire?lang=ar_ar"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://voxtobox.com/alternative-questionnaire?lang=ru_ru"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://voxtobox.com/alternative-questionnaire?lang=hi_in"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://voxtobox.com/alternative-questionnaire?lang=hi_in"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://voxtobox.com/alternative-questionnaire?lang=ja_jp"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://voxtobox.com/alternative-questionnaire?lang=de_de"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://voxtobox.com/alternative-questionnaire"/>
+  </url>
+  <url>
+    <loc>https://voxtobox.com/dashbord</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://voxtobox.com/dashbord?lang=fr_fr"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://voxtobox.com/dashbord?lang=en_gb"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://voxtobox.com/dashbord?lang=es_es"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://voxtobox.com/dashbord?lang=pt_pt"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://voxtobox.com/dashbord?lang=ar_ar"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://voxtobox.com/dashbord?lang=ru_ru"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://voxtobox.com/dashbord?lang=hi_in"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://voxtobox.com/dashbord?lang=hi_in"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://voxtobox.com/dashbord?lang=ja_jp"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://voxtobox.com/dashbord?lang=de_de"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://voxtobox.com/dashbord"/>
+  </url>
+  <url>
+    <loc>https://voxtobox.com/terms</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://voxtobox.com/terms?lang=fr_fr"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://voxtobox.com/terms?lang=en_gb"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://voxtobox.com/terms?lang=es_es"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://voxtobox.com/terms?lang=pt_pt"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://voxtobox.com/terms?lang=ar_ar"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://voxtobox.com/terms?lang=ru_ru"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://voxtobox.com/terms?lang=hi_in"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://voxtobox.com/terms?lang=hi_in"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://voxtobox.com/terms?lang=ja_jp"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://voxtobox.com/terms?lang=de_de"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://voxtobox.com/terms"/>
+  </url>
+  <url>
+    <loc>https://voxtobox.com/gestion_recompense</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://voxtobox.com/gestion_recompense?lang=fr_fr"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://voxtobox.com/gestion_recompense?lang=en_gb"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://voxtobox.com/gestion_recompense?lang=es_es"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://voxtobox.com/gestion_recompense?lang=pt_pt"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://voxtobox.com/gestion_recompense?lang=ar_ar"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://voxtobox.com/gestion_recompense?lang=ru_ru"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://voxtobox.com/gestion_recompense?lang=hi_in"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://voxtobox.com/gestion_recompense?lang=hi_in"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://voxtobox.com/gestion_recompense?lang=ja_jp"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://voxtobox.com/gestion_recompense?lang=de_de"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://voxtobox.com/gestion_recompense"/>
+  </url>
+  <url>
+    <loc>https://voxtobox.com/dashbordpro</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://voxtobox.com/dashbordpro?lang=fr_fr"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://voxtobox.com/dashbordpro?lang=en_gb"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://voxtobox.com/dashbordpro?lang=es_es"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://voxtobox.com/dashbordpro?lang=pt_pt"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://voxtobox.com/dashbordpro?lang=ar_ar"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://voxtobox.com/dashbordpro?lang=ru_ru"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://voxtobox.com/dashbordpro?lang=hi_in"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://voxtobox.com/dashbordpro?lang=hi_in"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://voxtobox.com/dashbordpro?lang=ja_jp"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://voxtobox.com/dashbordpro?lang=de_de"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://voxtobox.com/dashbordpro"/>
+  </url>
+  <url>
+    <loc>https://voxtobox.com/dashbord_voxboxer</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://voxtobox.com/dashbord_voxboxer?lang=fr_fr"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://voxtobox.com/dashbord_voxboxer?lang=en_gb"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://voxtobox.com/dashbord_voxboxer?lang=es_es"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://voxtobox.com/dashbord_voxboxer?lang=pt_pt"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://voxtobox.com/dashbord_voxboxer?lang=ar_ar"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://voxtobox.com/dashbord_voxboxer?lang=ru_ru"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://voxtobox.com/dashbord_voxboxer?lang=hi_in"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://voxtobox.com/dashbord_voxboxer?lang=hi_in"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://voxtobox.com/dashbord_voxboxer?lang=ja_jp"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://voxtobox.com/dashbord_voxboxer?lang=de_de"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://voxtobox.com/dashbord_voxboxer"/>
+  </url>
+  <url>
+    <loc>https://voxtobox.com/submit_coupons</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://voxtobox.com/submit_coupons?lang=fr_fr"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://voxtobox.com/submit_coupons?lang=en_gb"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://voxtobox.com/submit_coupons?lang=es_es"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://voxtobox.com/submit_coupons?lang=pt_pt"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://voxtobox.com/submit_coupons?lang=ar_ar"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://voxtobox.com/submit_coupons?lang=ru_ru"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://voxtobox.com/submit_coupons?lang=hi_in"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://voxtobox.com/submit_coupons?lang=hi_in"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://voxtobox.com/submit_coupons?lang=ja_jp"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://voxtobox.com/submit_coupons?lang=de_de"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://voxtobox.com/submit_coupons"/>
+  </url>
+  <url>
+    <loc>https://voxtobox.com/familles_en_ehpad</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://voxtobox.com/familles_en_ehpad?lang=fr_fr"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://voxtobox.com/familles_en_ehpad?lang=en_gb"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://voxtobox.com/familles_en_ehpad?lang=es_es"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://voxtobox.com/familles_en_ehpad?lang=pt_pt"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://voxtobox.com/familles_en_ehpad?lang=ar_ar"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://voxtobox.com/familles_en_ehpad?lang=ru_ru"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://voxtobox.com/familles_en_ehpad?lang=hi_in"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://voxtobox.com/familles_en_ehpad?lang=hi_in"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://voxtobox.com/familles_en_ehpad?lang=ja_jp"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://voxtobox.com/familles_en_ehpad?lang=de_de"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://voxtobox.com/familles_en_ehpad"/>
+  </url>
+</urlset>
